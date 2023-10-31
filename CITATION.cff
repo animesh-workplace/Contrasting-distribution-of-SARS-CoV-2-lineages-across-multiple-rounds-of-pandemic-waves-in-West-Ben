@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: ""
+authors:
+  - family-names: <link>Singh</link>
+    given-names: Animesh K.
+  - family-names: <link>Laskar</link>
+    given-names: Rezwanuzzaman
+  - family-names: <link>Banerjee</link>
+    given-names: Anindita
+  - family-names: <link>Mondal</link>
+    given-names: Rajiv Kumar
+  - family-names: <link>Gupta</link>
+    given-names: Bishal
+  - family-names: <link>Deb</link>
+    given-names: Sonia
+  - family-names: <link>Dutta</link>
+    given-names: Shreelekha
+  - family-names: <link>Patra</link>
+    given-names: Subrata
+  - family-names: <link>Ghosh</link>
+    given-names: Trinath
+  - family-names: <link>Sarkar</link>
+    given-names: Sumanta
+  - family-names: <link>Ghosh</link>
+    given-names: Shekhar
+  - family-names: <link>Bhattacharya</link>
+    given-names: Sabyasachi
+  - family-names: <link>Roy</link>
+    given-names: Debojyoti
+  - family-names: <link>Chakraborty</link>
+    given-names: Ankita
+  - family-names: <link>Chowdhury</link>
+    given-names: Meghna
+  - family-names: <link>Mahaptra</link>
+    given-names: Surajit
+  - family-names: <link>Paul</link>
+    given-names: Antara
+  - family-names: <link>Mazumder</link>
+    given-names: Anup
+  - family-names: <link>Chowdhury</link>
+    given-names: Aparna
+  - family-names: <link>Chatterjee</link>
+    given-names: Shiv Sekhar
+  - family-names: <link>Sarkar</link>
+    given-names: Arunabha
+  - family-names: <link>Ray</link>
+    given-names: Raja
+  - family-names: <link>Pal</link>
+    given-names: Kuhu
+  - family-names: <link>Jana</link>
+    given-names: Angshuman
+  - family-names: <link>Barik</link>
+    given-names: Goutam
+  - family-names: <link>Ganguly</link>
+    given-names: Swagata
+  - family-names: <link>Chatterjee</link>
+    given-names: Mitali
+  - family-names: <link>Majhi</link>
+    given-names: Dipankar
+  - family-names: <link>Bandopadhyay</link>
+    given-names: Bhaswati
+  - family-names: <link>Das</link>
+    given-names: Saumitra
+  - family-names: <link>Maitra</link>
+    given-names: Arindam
+  - family-names: <link>Biswas</link>
+    given-names: Nidhan K.
+title: Contrasting Distribution of SARS-CoV-2 Lineages across Multiple Rounds of Pandemic Waves in West Bengal, the Gateway of East and North-East States of India
+container-title: <link>Microbiology Spectrum</link>
+volume: 10
+issue: 4
+page: e00914-22
+date-released: 2022-01-01
+DOI: 10.1128/spectrum.00914-22
+URL: <link>https://journals.asm.org/doi/abs/10.1128/spectrum.00914-22</link>
